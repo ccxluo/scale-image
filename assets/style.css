@@ -1,0 +1,10 @@
+.content h1 {
+    font-size: 3rem;
+}
+
+.example-image {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
