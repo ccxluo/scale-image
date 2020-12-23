@@ -6,7 +6,7 @@ ScaleImage.prototype = {
     var exampleImg = document.querySelector('.example-image');
     var maskEl = document.querySelector('.img-preview');
     exampleImg.addEventListener('click', function() {
-      maskEl.style.display = 'flex';
+      maskEl.style.display = 'block';
       self.initPreviewEvent();
     })
   },
